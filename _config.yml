@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 name: Maxim Geller
 markdown: kramdown
+baseurl: ""
+url: "https://maximgeller.github.io"
