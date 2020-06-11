@@ -1,2 +1,2 @@
 # maximgeller.github.io
-Personal Website for me to experiment and display my personal projects!
+A website for me to experiment with Github Pages!
